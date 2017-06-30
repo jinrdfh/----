@@ -1,0 +1,4 @@
+#define SERVER_PORT 8000
+#define BUFFER_SIZE 1024
+#define FILE_NAME_MAX_SIZE 512
+#define INET_ADDR "127.0.0.1"
